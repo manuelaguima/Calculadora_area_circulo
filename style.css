@@ -1,0 +1,17 @@
+body{
+    background-color: hotpink;
+    color: black;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 100vh;
+}
+button, input{
+    background-color: palevioletred;
+    color: black;
+    font-size: 1.2rem;
+    border-radius: 16px;
+    height: 40px;
+    padding-left: 17px;
+    
+}
